@@ -1,0 +1,15 @@
+Soal 2
+
+Flutter sepenuhnya menggunakan Dart, jadi untuk membuat aplikasi flutter, perlu dipahami bahasa dasar ini terlebih dahulu
+Dart punya aturan penulisan dan struktur seperti deklarasi variabel, fungsi, kelas, dan kontrol alur (seperti if-else, loop)
+yang perlu dipahami untuk membuat kode yang benar. Dart mendukung paradigma OOP (Object-Oriented Programming), yang merupakan 
+dasar dari Flutter untuk mengelola UI dan logika aplikasi.
+
+Soal 3
+
+Beberapa poin penting yang saya catat. Dart memiliki fitur yang sangat bagus 
+mulai dari productive tooling, garbage collection, type annotations, statically typed dan juga portability
+dibalik dari fiturnya banyak juga yang didapat dari perubahan dart yaitu, memecahkan masalah pada javascript, menawarkan performa terbaik dan 
+alat yang lebih baik untuk proyek berskala besar, dibventuk kuat dan fleksibel. 
+Kesimpulannya dart bahasa modern yang luar biasa, mendukung lintas platform, dan memiliki tujuan umum dengan terus 
+meningkatkan fiturnya. Eksekusi kode dart dapat beroperasi dalam dua mode yaitu kompilasi Just In Time (JIT) atau kompilasi Ahead Of Time(AOT)
