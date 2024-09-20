@@ -1,0 +1,11 @@
+Penjelasan 
+
+Praktikum 1 Langkah 2
+variabel test memiliki nilai "test2", sehingga kondisi if (test == "test1") tidak terpenuhi dan blok else if (test == "test2") yang dieksekusi, menghasilkan output “Test2”. Selanjutnya, kondisi else tidak dieksekusi karena salah satu kondisi sebelumnya sudah terpenuhi. 
+Pada kondisi kedua, if ( test == "test2") langsung dieksekusi karena kondisinya benar, menghasilkan output “Test2 again”.
+
+Praktikum 2 Langkah 2
+kode tersebut akan menghasilkan error karena, variabel counter harus dideklarasi menggunakan int
+
+Praktikum 3 Langkah 2
+pada variable index harus ditambahkan int dan harus terdapat opersai increment index++ agar for dapat berjalan sesuai semestinya
